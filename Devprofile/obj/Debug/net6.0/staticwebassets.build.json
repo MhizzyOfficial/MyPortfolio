@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fESi83X7Y0w/75PxipRUadO5jfkjpJsgsfr/QwJ3j5Y=",
+  "Hash": "bEjoX053A7hkptbSTE3bkDxDyBe3RqBZm682nM44hLg=",
   "Source": "Devprofile",
   "BasePath": "_content/Devprofile",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Devprofile\\wwwroot",
       "Source": "Devprofile",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Devprofile.styles.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Devprofile.styles.css",
       "SourceId": "Devprofile",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "Devprofile.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Devprofile.styles.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Devprofile.styles.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Devprofile.bundle.scp.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Devprofile.bundle.scp.css",
       "SourceId": "Devprofile",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "Devprofile.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Devprofile.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Devprofile.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\blue-color.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\blue-color.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/blue-color.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\blue-color.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\green-color.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\green-color.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/green-color.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\green-color.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\pink-color.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\pink-color.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/pink-color.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\pink-color.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\animations.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\animations.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/animations.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\animations.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\bootstrap.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\bootstrap.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/bootstrap.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\font-awesome.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\font-awesome.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/font-awesome.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\jquery.animatedheadline.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\jquery.animatedheadline.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/jquery.animatedheadline.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\jquery.animatedheadline.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\linear-icons.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\linear-icons.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/linear-icons.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\linear-icons.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\magnific-popup.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\magnific-popup.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/magnific-popup.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\owl.carousel.min.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/owl.carousel.min.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\owl.theme.default.min.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\owl.video.play.html",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\owl.video.play.html",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/owl.video.play.html",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\owl.video.play.html"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\simplebar.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\simplebar.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/plugins/simplebar.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins\\simplebar.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\purple-color.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\purple-color.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/purple-color.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\purple-color.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\red-color.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\red-color.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/red-color.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\red-color.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\style-dark.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\style-dark.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/style-dark.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style-dark.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\style-demo.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\style-demo.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/style-demo.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style-demo.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\yellow-color.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\yellow-color.css",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "css/yellow-color.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\yellow-color.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\favicon.ico",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.eot",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.svg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.ttf",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.woff",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.woff2",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400d41d.eot",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-brands-400d41d.eot",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.eot",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.svg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.ttf",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.woff",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.woff2",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400d41d.eot",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-regular-400d41d.eot",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.eot",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.svg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.ttf",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.woff",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.woff2",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900d41d.eot",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/fa-solid-900d41d.eot",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.eot",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/Linearicons-Free54e9.eot",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free54e9.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.svg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.svg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/Linearicons-Free54e9.svg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free54e9.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.ttf",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/Linearicons-Free54e9.ttf",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free54e9.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.woff",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.woff",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/Linearicons-Free54e9.woff",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free54e9.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.woff2",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.woff2",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/Linearicons-Free54e9.woff2",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Free54e9.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Freed41d.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Freed41d.eot",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "fonts/Linearicons-Freed41d.eot",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Linearicons-Freed41d.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\background\\home-bg.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\background\\home-bg.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/background/home-bg.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\background\\home-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\background\\home-bg2.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\background\\home-bg2.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/background/home-bg2.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\background\\home-bg2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-1.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-1.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/authors/author-1.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\authors\\author-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-2.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-2.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/authors/author-2.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\authors\\author-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-3.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-3.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/authors/author-3.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\authors\\author-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\blog-page-img.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\blog-page-img.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/blog-page-img.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-page-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-1.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-1.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/img-1.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-2.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-2.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/img-2.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\img-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-3.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-3.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/img-3.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-4.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-4.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/img-4.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-5.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-5.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/img-5.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\img-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-6.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-6.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/img-6.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\img-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-7.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-7.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/img-7.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\img-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-8.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-8.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/img-8.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\img-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-9.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-9.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/blog/img-9.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\img-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-01.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-01.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/clients/client-01.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-01.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-02.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-02.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/clients/client-02.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-02.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-03.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-03.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/clients/client-03.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-03.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-04.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-04.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/clients/client-04.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-04.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-05.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-05.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/clients/client-05.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-05.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-06.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-06.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/clients/client-06.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-06.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-07.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-07.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/clients/client-07.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-07.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-08.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-08.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/clients/client-08.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-08.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-09.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-09.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/clients/client-09.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-09.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\favicon.ico",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\favicon.ico",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/favicon.ico",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-1.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-1.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-1.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-10.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-10.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-10.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-11.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-11.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-11.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-2.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-2.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-2.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-3.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-3.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-3.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-4.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-4.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-4.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-5.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-5.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-5.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-6.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-6.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-6.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-7.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-7.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-7.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-8.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-8.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-8.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-9.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-9.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/portfolio/img-9.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\img-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\Profile-img.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\Profile-img.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/Profile-img.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Profile-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\signature-white.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\signature-white.png",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/signature-white.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\signature-white.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\single-work\\img-1.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\single-work\\img-1.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/single-work/img-1.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-work\\img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\single-work\\img-2.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\single-work\\img-2.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/single-work/img-2.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-work\\img-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\testimonials\\author-1.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\testimonials\\author-1.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/testimonials/author-1.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\author-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\testimonials\\author-2.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\testimonials\\author-2.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/testimonials/author-2.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\author-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\testimonials\\author-3.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\testimonials\\author-3.jpg",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "img/testimonials/author-3.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\author-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\main.js",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\main-demo.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\main-demo.js",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "js/main-demo.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main-demo.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\modernizr.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\modernizr.js",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "js/modernizr.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\js\\modernizr.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\plugins.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\plugins.min.js",
       "SourceId": "Devprofile",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\",
       "BasePath": "_content/Devprofile",
       "RelativePath": "js/plugins.min.js",
       "AssetKind": "All",

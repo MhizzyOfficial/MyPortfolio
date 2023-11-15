@@ -1,375 +1,375 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Devprofile.bundle.scp.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Devprofile.bundle.scp.css",
       "PackagePath": "staticwebassets\\Devprofile.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\blue-color.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\blue-color.css",
       "PackagePath": "staticwebassets\\css\\blue-color.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\green-color.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\green-color.css",
       "PackagePath": "staticwebassets\\css\\green-color.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\pink-color.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\pink-color.css",
       "PackagePath": "staticwebassets\\css\\pink-color.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins.css",
       "PackagePath": "staticwebassets\\css\\plugins.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\animations.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\animations.css",
       "PackagePath": "staticwebassets\\css\\plugins\\animations.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\bootstrap.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\plugins\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\font-awesome.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\font-awesome.css",
       "PackagePath": "staticwebassets\\css\\plugins\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\jquery.animatedheadline.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\jquery.animatedheadline.css",
       "PackagePath": "staticwebassets\\css\\plugins\\jquery.animatedheadline.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\linear-icons.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\linear-icons.css",
       "PackagePath": "staticwebassets\\css\\plugins\\linear-icons.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\magnific-popup.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\plugins\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\owl.carousel.min.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\plugins\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\css\\plugins\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\owl.video.play.html",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\owl.video.play.html",
       "PackagePath": "staticwebassets\\css\\plugins\\owl.video.play.html"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\plugins\\simplebar.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\plugins\\simplebar.css",
       "PackagePath": "staticwebassets\\css\\plugins\\simplebar.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\purple-color.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\purple-color.css",
       "PackagePath": "staticwebassets\\css\\purple-color.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\red-color.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\red-color.css",
       "PackagePath": "staticwebassets\\css\\red-color.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\style-dark.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\style-dark.css",
       "PackagePath": "staticwebassets\\css\\style-dark.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\style-demo.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\style-demo.css",
       "PackagePath": "staticwebassets\\css\\style-demo.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\css\\yellow-color.css",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\css\\yellow-color.css",
       "PackagePath": "staticwebassets\\css\\yellow-color.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.eot",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.eot",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.svg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.svg",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.svg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.ttf",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.ttf",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.ttf"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.woff",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.woff",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.woff"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.woff2",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Free54e9.woff2",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.woff2"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\Linearicons-Freed41d.eot",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\Linearicons-Freed41d.eot",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Freed41d.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-brands-400d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-regular-400d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\fonts\\fa-solid-900d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\Profile-img.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\Profile-img.jpg",
       "PackagePath": "staticwebassets\\img\\Profile-img.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\background\\home-bg.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\background\\home-bg.jpg",
       "PackagePath": "staticwebassets\\img\\background\\home-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\background\\home-bg2.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\background\\home-bg2.jpg",
       "PackagePath": "staticwebassets\\img\\background\\home-bg2.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-1.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\authors\\author-1.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-2.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\authors\\author-2.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-3.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\authors\\author-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\authors\\author-3.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\blog-page-img.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\blog-page-img.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-page-img.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-1.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-2.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\img-2.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-3.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-4.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-4.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-5.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-5.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\img-5.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-6.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-6.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\img-6.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-7.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-7.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\img-7.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-8.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-8.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\img-8.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\blog\\img-9.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\blog\\img-9.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\img-9.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-01.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-01.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-01.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-02.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-02.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-02.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-03.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-03.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-03.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-04.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-04.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-04.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-05.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-05.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-05.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-06.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-06.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-06.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-07.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-07.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-07.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-08.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-08.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-08.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\clients\\client-09.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\clients\\client-09.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-09.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\favicon.ico",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-1.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-1.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-10.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-10.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-10.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-11.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-11.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-11.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-2.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-2.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-2.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-3.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-3.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-4.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-4.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-5.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-5.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-5.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-6.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-6.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-6.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-7.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-7.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-7.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-8.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-8.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-8.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\portfolio\\img-9.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\portfolio\\img-9.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\img-9.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\signature-white.png",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\signature-white.png",
       "PackagePath": "staticwebassets\\img\\signature-white.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\single-work\\img-1.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\single-work\\img-1.jpg",
       "PackagePath": "staticwebassets\\img\\single-work\\img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\single-work\\img-2.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\single-work\\img-2.jpg",
       "PackagePath": "staticwebassets\\img\\single-work\\img-2.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\testimonials\\author-1.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\testimonials\\author-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonials\\author-1.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\testimonials\\author-2.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\testimonials\\author-2.jpg",
       "PackagePath": "staticwebassets\\img\\testimonials\\author-2.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\img\\testimonials\\author-3.jpg",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\img\\testimonials\\author-3.jpg",
       "PackagePath": "staticwebassets\\img\\testimonials\\author-3.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\jquery.min.js",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\main-demo.js",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\main-demo.js",
       "PackagePath": "staticwebassets\\js\\main-demo.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\modernizr.js",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\modernizr.js",
       "PackagePath": "staticwebassets\\js\\modernizr.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\wwwroot\\js\\plugins.min.js",
+      "Id": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\wwwroot\\js\\plugins.min.js",
       "PackagePath": "staticwebassets\\js\\plugins.min.js"
     },
     {
