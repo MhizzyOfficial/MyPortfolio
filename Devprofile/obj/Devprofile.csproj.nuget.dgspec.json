@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\Devprofile.csproj": {}
+    "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\Devprofile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\Devprofile.csproj": {
+    "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\Devprofile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\Devprofile.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\Devprofile.csproj",
         "projectName": "Devprofile",
-        "projectPath": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\Devprofile.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\Devprofile.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Documents\\PADDY\\Devprofile\\Devprofile\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\PADDY\\DevProfile\\Devprofile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
