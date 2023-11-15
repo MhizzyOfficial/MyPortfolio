@@ -17,13 +17,18 @@ Creativity: bringing fresh and inventive approaches to projects
 
 Problem solving: adept at finding effective solutions.
 
+
 🚀 Projects
 Here are some of the projects I'm proud of:
 
 Mini Bank App
+
 Payroll System Management
+
 Student GPA Calculator
+
 State Grouping using LINQ
+
 
 I'm currently delving deeper into ASP.NET Core and ADO.NET, with a focus on enhancing my expertise in the C#.NET Framework.
 
