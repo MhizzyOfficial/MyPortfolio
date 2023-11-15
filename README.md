@@ -6,10 +6,15 @@ I thrive on building innovative applications, and I'm constantly exploring new t
 🔧 Skills
 
 C#: Proficient in developing robust applications.
+
 ADO.NET: Extensive experience in data access and manipulation.
+
 ASP.NET Core: Building scalable and efficient web applications
+
 Debugging: skilled in identifying and resolving issues.
+
 Creativity: bringing fresh and inventive approaches to projects
+
 Problem solving: adept at finding effective solutions.
 
 🚀 Projects
