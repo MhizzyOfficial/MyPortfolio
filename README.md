@@ -19,6 +19,7 @@ Problem solving: adept at finding effective solutions.
 
 
 🚀 Projects
+
 Here are some of the projects I'm proud of:
 
 Mini Bank App
