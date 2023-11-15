@@ -1,0 +1,91 @@
+﻿
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Stephen Ibijemilusi</title>
+    <!--Plugins Css-->
+    <link rel="stylesheet" href="css/plugins.css">
+    <!--Main Styles Css-->
+    <link rel="stylesheet" href="css/style-dark.css">
+
+    <link rel="stylesheet" href="css/style-demo.css">
+
+    <!--Color Css-->
+    <link class="site-color" rel="stylesheet" href="css/blue-color.css">
+
+    <!--Modernizr Js-->
+    <script src="js/modernizr.js"></script>
+
+    <!--Favicons-->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122650090-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-122650090-3');
+    </script>
+</head>
+<body>
+    <div id="page">
+
+        <header>
+            <div class="header-content">
+
+                <div class="header-main" data-simplebar>
+                    <div class="image-container">
+                        <h2 class="header-name">Stephen Ibijemilusi</h2>
+                        <img src="img/Profile-img.jpg" alt="profile-pic">
+                    </div>
+
+<nav class="nav-menu">
+    <ul>
+        <li><a href="#home" class="pt-link active"><span class=""><i class="lnr lnr-poop"></i></span> Home</a></li>
+        <li><a href="#about" class="pt-link"><span class=""><i class="lnr lnr-user"></i></span> About</a></li>
+        <li><a href="#resume" class="pt-link"><span class=""><i class="lnr lnr-frame-contract"></i></span> Resume</a></li>
+    </ul>
+</nav>
+
+                    <div class="nav-footer"> 
+                        <div class="copy">
+                            <p>2023 &copy; Stephenibijemilusi.<br>All Right Reserved.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </header>
+
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+    </div>
+   
+    </div>
+
+    <div class="ajax-portfolio-popup">
+        <span class="ajax-loader"></span>
+        <div class="navigation-wrap">
+            <span class="popup-close"><i class="fas fa-times-circle"></i></span>
+        </div>
+        <div class="content-wrap">
+            <div class="popup-content"></div>
+        </div>
+    </div>
+    <!--Ajax Portfolio Container End-->
+    <!--Jquery JS-->
+    <script src="js/jquery.min.js"></script>
+    <!--Plugins JS-->
+    <script src="js/plugins.min.js"></script>
+    <!--Google Map Api-->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key="></script>
+    <!--Site Main JS-->
+    <script src="js/main.js"></script>
+
+    <script src="js/main-demo.js"></script>
+
+</body>
+@await RenderSectionAsync("Scripts", required: false)
